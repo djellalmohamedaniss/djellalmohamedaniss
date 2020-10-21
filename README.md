@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+I'm Djellal Mohamed Aniss, I'm 22yo, a last year computer science student, specialized in artificial intelligence and decision systems. Currently looking for an end of study internship.
 
-- 🔭 I’m currently working on a **BIG** ecommerce website, I'm looking for an internship in Artificial intelligence too.
+
+- 🔭 I’m currently working on a **BIG** e-commerce website.
 - 🌱 I’m currently learning reinforcement learning and intelligent agents.
 - ⚡ Fun fact: there is no **science** in data science.
 
